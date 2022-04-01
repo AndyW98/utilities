@@ -15,7 +15,7 @@ class MagicItems:
     '''
     def __init__(self, json_file):
         self.json_filename = json_file
-        with open(json_file,) as file:
+        with open(json_file, 'r') as file:
             self.items = json.load(file)
         
         # Randomizes the prices if this is the data

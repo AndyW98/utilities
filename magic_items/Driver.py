@@ -12,9 +12,9 @@ from MagicItems import *
 
 if __name__ == '__main__':
     
-    json_file = 'magic_items.json'
-    magic_items_file = 'magic_items_price.json'
-    magic_items_file2 = 'magic_items_price2.json'
+    json_file = 'magic_items/magic_items.json'
+    magic_items_file = 'magic_items/magic_items_price.json'
+    magic_items_file2 = 'magic_items/magic_items_price2.json'
 
     magic_items = MagicItems(json_file)
     #print(magic_item_dict.items.keys())

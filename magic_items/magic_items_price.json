@@ -4,56 +4,56 @@
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 40
     },
     "Armor of Gleaming": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 40
     },
     "Bead of Nourishment": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 50
     },
     "Bead of Refreshment": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 20
     },
     "Boots of False Tracks": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 60
     },
     "Bottle of Boundless Coffee": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Strixhaven: A Curriculum of Chaos",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 30
     },
     "Breathing Bubble": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 60
     },
     "Candle of the Deep": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 30
     },
     "Cast-Off Armor": {
         "Type": "Armor",
@@ -67,7 +67,7 @@
         "Attuned": true,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 70
     },
     "Cleansing Stone": {
         "Type": "Wondrous Item",
@@ -81,63 +81,63 @@
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 20
     },
     "Cloak of Many Fashions": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 20
+        "Price": 50
     },
     "Clockwork Amulet": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 60
     },
     "Clothes of Mending": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 60
     },
     "Coin of Delving": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 30
     },
     "Cuddly Strixhaven Mascot": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Strixhaven: A Curriculum of Chaos",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 30
     },
     "Dark Shard Amulet": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 60
     },
     "Dread Helm": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 20
+        "Price": 50
     },
     "Ear Horn of Hearing": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 20
+        "Price": 50
     },
     "Enduring Spellbook": {
         "Type": "Wondrous Item",
@@ -151,91 +151,91 @@
         "Attuned": true,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 20
+        "Price": 70
     },
     "Everbright Lantern": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 20
     },
     "Feather Token": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Common",
-        "Price": 50
+        "Price": 70
     },
     "Glamerweave": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 200
     },
     "Hat of Vermin": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 50
+        "Price": 60
     },
     "Hat of Wizardry": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 50
     },
     "Heward's Handy Spice Pouch": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 30
     },
     "Horn of Silent Alarm": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 50
     },
     "Illuminator's Tattoo": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 40
     },
     "Imbued Wood Focus": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 60
     },
     "Instrument of Illusions": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 70
     },
     "Instrument of Scribing": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 60
     },
     "Keycharm": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 60
     },
     "Lantern of Tracking": {
         "Type": "Wondrous Item",
@@ -249,14 +249,14 @@
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 50
+        "Price": 70
     },
     "Masque Charm": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Strixhaven: A Curriculum of Chaos",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 20
     },
     "Masquerade Tattoo": {
         "Type": "Wondrous Item",
@@ -277,7 +277,7 @@
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 50
     },
     "Mystery Key": {
         "Type": "Wondrous Item",
@@ -291,21 +291,21 @@
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 20
+        "Price": 70
     },
     "Orb of Shielding": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 30
     },
     "Orb of Time": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 50
+        "Price": 70
     },
     "Perfume of Bewitching": {
         "Type": "Wondrous Item",
@@ -319,56 +319,56 @@
         "Attuned": false,
         "Source": "Ghosts of Saltmarsh",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 60
     },
     "Pipe of Smoke Monsters": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 60
     },
     "Pole of Angling": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 70
     },
     "Pole of Collapsing": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 20
     },
     "Pot of Awakening": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 70
     },
     "Potion of Climbing": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 30
     },
     "Potion of Healing": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 50000
     },
     "Pressure Capsule": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Ghosts of Saltmarsh",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 40
     },
     "Prosthetic Limb": {
         "Type": "Wondrous Item",
@@ -382,49 +382,49 @@
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 20
+        "Price": 60
     },
     "Ruby of the War Mage": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 60
     },
     "Scribe's Pen": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Common",
-        "Price": 50
+        "Price": 40
     },
     "Sekolahian Worshipping Statuette": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Ghosts of Saltmarsh",
         "Rarity": "Common",
-        "Price": 20
+        "Price": 70
     },
     "Shield of Expression": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 70
     },
     "Shiftweave": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 70
     },
     "Smoldering Armor": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 50
     },
     "Spell Scroll": {
         "Type": "Scroll",
@@ -438,56 +438,56 @@
         "Attuned": false,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 20
     },
     "Spellwrought Tattoo": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 15000
+        "Price": 11000
     },
     "Staff of Adornment": {
         "Type": "Staff",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 40
     },
     "Staff of Birdcalls": {
         "Type": "Staff",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 20
     },
     "Staff of Flowers": {
         "Type": "Staff",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 20
+        "Price": 30
     },
     "Strixhaven Pennant": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Strixhaven: A Curriculum of Chaos",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 70
     },
     "Talking Doll": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 40
     },
     "Tankard of Sobriety": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 60
+        "Price": 30
     },
     "Thermal Cube": {
         "Type": "Wondrous Item",
@@ -501,7 +501,7 @@
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 30
+        "Price": 70
     },
     "Veteran's Cane": {
         "Type": "Wondrous Item",
@@ -515,56 +515,56 @@
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Common",
-        "Price": 20
+        "Price": 60
     },
     "Walloping Ammunition": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 20
     },
     "Wand of Conducting": {
         "Type": "Wand",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 50
+        "Price": 40
     },
     "Wand of Pyrotechnics": {
         "Type": "Wand",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 50
+        "Price": 60
     },
     "Wand of Scowls": {
         "Type": "Wand",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 40
+        "Price": 30
     },
     "Wand of Smiles": {
         "Type": "Wand",
         "Attuned": false,
         "Source": "Xanathar's Guide to Everything",
         "Rarity": "Common",
-        "Price": 70
+        "Price": 20
     },
     "Wand Sheath": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Common",
-        "Price": 20
+        "Price": 70
     },
     "Adamantine Armor": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 500
     },
     "Alchemy Jug": {
         "Type": "Wondrous Item",
@@ -578,14 +578,14 @@
         "Attuned": false,
         "Source": "Candlekeep Mysteries",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 400
     },
     "Alchemy Jug (Orange)": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Candlekeep Mysteries",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 300
     },
     "All-Purpose Tool": {
         "Type": "Wondrous Item",
@@ -599,7 +599,7 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 40000
     },
     "Amulet of Proof Against Detection and Location": {
         "Type": "Wondrous Item",
@@ -613,56 +613,56 @@
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 40000
     },
     "Amulet of the Drunkard": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 300
     },
     "Arcane Grimoire": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 40000
     },
     "Bag of Holding": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 200
     },
     "Bag of Tricks": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 400
     },
     "Balance of Harmony": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 100
     },
     "Balloon Pack": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 500
     },
     "Barrier Tattoo": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 30000
     },
     "Blood of the Lycanthrope Antidote": {
         "Type": "Potion",
@@ -676,7 +676,7 @@
         "Attuned": true,
         "Source": "Curse of Strahd",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 100
     },
     "Bloodwell Vial": {
         "Type": "Wondrous Item",
@@ -690,14 +690,14 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 100
     },
     "Boots of Striding and Springing": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 600
     },
     "Boots of the Winterlands": {
         "Type": "Wondrous Item",
@@ -711,7 +711,7 @@
         "Attuned": false,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 300
     },
     "Brooch of Living Essence": {
         "Type": "Wondrous Item",
@@ -725,7 +725,7 @@
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 500
     },
     "Broom of Flying": {
         "Type": "Wondrous Item",
@@ -739,14 +739,14 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 100
     },
     "Circlet of Blasting": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 400
     },
     "Cloak of Elvenkind": {
         "Type": "Wondrous Item",
@@ -767,14 +767,14 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 400
     },
     "Coiling Grasp Tattoo": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 200
     },
     "Cracked Driftglobe": {
         "Type": "Wondrous Item",
@@ -795,7 +795,7 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 500
     },
     "Deck of Illusions": {
         "Type": "Wondrous Item",
@@ -809,21 +809,21 @@
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Legendary",
-        "Price": 75000
+        "Price": 50000
     },
     "Dragonhide Belt": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Dragon's Wrath Weapon": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 225000
     },
     "Dragon-Touched Focus": {
         "Type": "Wondrous Item",
@@ -837,14 +837,14 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 100
     },
     "Dust of Corrosion": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 400
     },
     "Dust of Deliciousness": {
         "Type": "Wondrous Item",
@@ -858,84 +858,84 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 500
     },
     "Dust of Dryness": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 500
     },
     "Dust of Sneezing and Choking": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 300
     },
     "Earworm": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 400
     },
     "Eldritch Claw Tattoo": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 600
     },
     "Elemental Gem": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 500
     },
     "Emerald Pen": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 400
     },
     "Eversmoking Bottle": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 200
     },
     "Eyes of Charming": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 400
     },
     "Eyes of Minute Seeing": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 500
     },
     "Eyes of the Eagle": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 200
     },
     "Feywild Shard": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 100
     },
     "Figurine of Wondrous Power": {
         "Type": "Wondrous Item",
@@ -949,49 +949,49 @@
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 600
     },
     "Gauntlets of Ogre Power": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 600
     },
     "Gem of Brightness": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 600
     },
     "Gloves of Missile Snaring": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 600
     },
     "Gloves of Swimming and Climbing": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 500
     },
     "Gloves of Thievery": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 600
     },
     "Goggles of Night": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 200
     },
     "Goggles of Object Reading": {
         "Type": "Wondrous Item",
@@ -1005,35 +1005,35 @@
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 100
     },
     "Guild Keyrune": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 20000
     },
     "Guild Signet": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 200
     },
     "Harkon's Bite": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Van Richten's Guide to Ravenloft",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 600
     },
     "Hat of Disguise": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 300
     },
     "Headband of Intellect": {
         "Type": "Wondrous Item",
@@ -1054,14 +1054,14 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 100
     },
     "Helm of Telepathy": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 500
     },
     "Helm of Underwater Action": {
         "Type": "Wondrous Item",
@@ -1075,14 +1075,14 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 400
     },
     "Infernal Puzzle Box": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Baldur's Gate: Descent into Avernus",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 300
     },
     "Insignia of Claws": {
         "Type": "Wondrous Item",
@@ -1096,56 +1096,56 @@
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 175000
     },
     "Javelin of Lightning": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 500
     },
     "Keoghtom's Ointment": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 300
     },
     "Lantern of Revealing": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 200
     },
     "Living Gloves": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 500
     },
     "Lorehold Primer": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Strixhaven: A Curriculum of Chaos",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 500
     },
     "Mariner's Armor": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 300
     },
     "Mask of the Beast": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Tomb of Annihilation",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 500
     },
     "Medallion of Thoughts": {
         "Type": "Wondrous Item",
@@ -1159,91 +1159,91 @@
         "Attuned": true,
         "Source": "Volo's Guide to Monsters",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 100
     },
     "Mithral Armor": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 400
     },
     "Mizzium Apparatus": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 600
     },
     "Moon Sickle": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Mummy Rot Antidote": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Infernal Machine Rebuild",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 300
     },
     "Nature's Mantle": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 600
     },
     "Necklace of Adaptation": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 400
     },
     "Night Caller": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 500
     },
     "Oil of Slipperiness": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 100
     },
     "Paper Bird": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Waterdeep - Dragon Heist",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 600
     },
     "Pearl of Power": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 400
     },
     "Periapt of Health": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 100
     },
     "Periapt of Wound Closure": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 200
     },
     "Philter of Love": {
         "Type": "Potion",
@@ -1257,77 +1257,77 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 300
     },
     "Pipes of the Sewers": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 200
     },
     "Piwafwi": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Out of the Abyss",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 200
     },
     "Pixie Dust": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 500
     },
     "Potion of Advantage": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 600
     },
     "Potion of Animal Friendship": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 400
     },
     "Potion of Fire Breath": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 600
     },
     "Potion of Giant Strength": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 75000
+        "Price": 125000
     },
     "Potion of Growth": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 200
     },
     "Potion of Poison": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 200
     },
     "Potion of Resistance": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 400
     },
     "Potion of Water Breathing": {
         "Type": "Potion",
@@ -1341,77 +1341,77 @@
         "Attuned": true,
         "Source": "Strixhaven: A Curriculum of Chaos",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 500
     },
     "Psi Crystal": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Icewind Dale: Rime of the Frostmaiden",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 100
     },
     "Pyroconverger": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 100
     },
     "Quandrix Primer": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Strixhaven: A Curriculum of Chaos",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 100
     },
     "Quiver of Ehlonna": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 400
     },
     "Rhythm Maker's Drum": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 20000
     },
     "Ring of Jumping": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 600
     },
     "Ring of Mind Shielding": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 100
     },
     "Ring of Obscuring": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 200
     },
     "Ring of Swimming": {
         "Type": "Ring",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 600
     },
     "Ring of Truth Telling": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Waterdeep - Dragon Heist",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 100
     },
     "Ring of Warmth": {
         "Type": "Ring",
@@ -1432,112 +1432,112 @@
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 200
     },
     "Robe of Useful Items": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 100
     },
     "Rod of Retribution": {
         "Type": "Rod",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 200
     },
     "Rod of the Pact Keeper, +1, +2, +3": {
         "Type": "Rod",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 50000
     },
     "Rope of Climbing": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 500
     },
     "Saddle of the Cavalier": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 500
     },
     "Scaled Ornament": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 175000
     },
     "Seeker Dart": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 300
     },
     "Sending Stones": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 500
     },
     "Sentinel Shield": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 200
     },
     "Serpent Scale Armor": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Candlekeep Mysteries",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 100
     },
     "Shatterspike": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 500
     },
     "Shield, +1, +2, +3": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 40000
     },
     "Silverquill Primer": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Strixhaven: A Curriculum of Chaos",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 100
     },
     "Skyblinder Staff": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 300
     },
     "Slippers of Spider Climbing": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 200
     },
     "Smokepowder": {
         "Type": "Wondrous Item",
@@ -1551,112 +1551,112 @@
         "Attuned": false,
         "Source": "Baldur's Gate: Descent into Avernus",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 200
     },
     "Spell Gem": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Out of the Abyss",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 175000
     },
     "Spies' Murmur": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 600
     },
     "Staff of the Adder": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 400
     },
     "Staff of the Python": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 600
     },
     "Stone of Good Luck (Luckstone)": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 600
+        "Price": 200
     },
     "Stone of Ill Luck": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 300
     },
     "Storm Boomerang": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 200
     },
     "Sword of Vengeance": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 300
     },
     "Thessaltoxin Antidote": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Infernal Machine Rebuild",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 100
     },
     "Trident of Fish Command": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 100
     },
     "Wand of Entangle": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 600
     },
     "Wand of Magic Detection": {
         "Type": "Wand",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 400
+        "Price": 300
     },
     "Wand of Magic Missiles": {
         "Type": "Wand",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 600
     },
     "Wand of Secrets": {
         "Type": "Wand",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 200
     },
     "Wand of the War Mage": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 40000
     },
     "Wand of Web": {
         "Type": "Wand",
@@ -1677,245 +1677,245 @@
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 500
+        "Price": 600
     },
     "Wheel of Wind and Water": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Uncommon",
-        "Price": 300
+        "Price": 400
     },
     "Wind Fan": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 200
     },
     "Winged Boots": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 100
     },
     "Wingwear": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Uncommon",
-        "Price": 200
+        "Price": 400
     },
     "Witherbloom Primer": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Strixhaven: A Curriculum of Chaos",
         "Rarity": "Uncommon",
-        "Price": 100
+        "Price": 200
     },
     "Acheron Blade": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 6000
     },
     "Alchemical Compendium": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 4000
     },
     "Amulet of Health": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 5000
+        "Price": 4000
     },
     "Amulet of Protection from Turning": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Rare",
-        "Price": 7000
+        "Price": 5000
     },
     "Armor, +1, +2, or +3": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 225000
     },
     "Armor of Resistance": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 13000
+        "Price": 3000
     },
     "Armor of Vulnerability": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 15000
     },
     "Arrow-Catching Shield": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 7000
+        "Price": 14000
     },
     "Astral Shard": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 8000
     },
     "Astromancy Archive": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 4000
+        "Price": 17000
     },
     "Atlas of Endless Horizons": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 5000
+        "Price": 13000
     },
     "Badge of the Watch": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Waterdeep - Dragon Heist",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 11000
     },
     "Bag of Beans": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 15000
+        "Price": 9000
     },
     "Banner of the Krig Rune": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 7000
     },
     "Battering Shield": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 4000
     },
     "Bead of Force": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 13000
+        "Price": 4000
     },
     "Bell Branch": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 4000
+        "Price": 17000
     },
     "Belt of Dwarvenkind": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 19000
+        "Price": 6000
     },
     "Belt of Giant Strength": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 250000
+        "Price": 50000
     },
     "Berserker Axe": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 17000
+        "Price": 9000
     },
     "Blod Stone": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 11000
     },
     "Bonecounter": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Sleeping Dragon's Wake",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 12000
     },
     "Boots of Levitation": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 13000
+        "Price": 5000
     },
     "Boots of Speed": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 7000
+        "Price": 18000
     },
     "Bowl of Commanding Water Elementals": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 4000
+        "Price": 13000
     },
     "Bracer of Flying Daggers": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Waterdeep - Dragon Heist",
         "Rarity": "Rare",
-        "Price": 16000
+        "Price": 9000
     },
     "Bracers of Defense": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 11000
     },
     "Brazier of Commanding Fire Elementals": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 5000
+        "Price": 6000
     },
     "Bridle of Capturing": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Infernal Machine Rebuild",
         "Rarity": "Rare",
-        "Price": 3000
+        "Price": 10000
     },
     "Butcher's Bib": {
         "Type": "Wondrous Item",
@@ -1929,266 +1929,266 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 14000
     },
     "Cauldron of Plenty": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Icewind Dale: Rime of the Frostmaiden",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 12000
     },
     "Censer of Controlling Air Elementals": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 18000
+        "Price": 3000
     },
     "Charm of Plant Command": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Ghosts of Saltmarsh",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 12000
     },
     "Chime of Opening": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 16000
+        "Price": 15000
     },
     "Chromatic Rose": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Rare",
-        "Price": 18000
+        "Price": 3000
     },
     "Claw of the Wyrm Rune": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 9000
     },
     "Claws of the Umber Hulk": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Rare",
-        "Price": 5000
+        "Price": 16000
     },
     "Cloak of Displacement": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 10000
     },
     "Cloak of the Bat": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 16000
     },
     "Corpse Slayer": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 16000
     },
     "Crystal Blade": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 12000
     },
     "Cube of Force": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 9000
     },
     "Daern's Instant Fortress": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 19000
     },
     "Dagger of Venom": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 13000
     },
     "Devotee's Censer": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 18000
+        "Price": 12000
     },
     "Dimensional Shackles": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 3000
     },
     "Docent": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 13000
     },
     "Dragon Slayer": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 3000
+        "Price": 12000
     },
     "Dragon Wing Bow": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 12000
     },
     "Dragontooth Dagger": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Tyranny of Dragons",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 5000
     },
     "Duplicitous Manuscript": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 4000
+        "Price": 13000
     },
     "Eagle Whistle": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 13000
     },
     "Elemental Essence Shard": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 7000
     },
     "Elixir of Health": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 3000
+        "Price": 13000
     },
     "Elven Chain": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 14000
     },
     "Far Realm Shard": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 13000
     },
     "Feather of Diatryma Summoning": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Waterdeep - Dragon Heist",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 14000
     },
     "Flame Tongue": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 20000
     },
     "Flying Chariot": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Mythic Odysseys of Theros",
         "Rarity": "Rare",
-        "Price": 5000
+        "Price": 9000
     },
     "Folding Boat": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 4000
     },
     "Fulminating Treatise": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 7000
+        "Price": 6000
     },
     "Galder's Bubble Pipe": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Lost Laboratory of Kwalish",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 4000
     },
     "Gambler's Blade": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Lost Laboratory of Kwalish",
         "Rarity": "Rare",
-        "Price": 7000
+        "Price": 9000
     },
     "Gauntlets of Flaming Fury": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Baldur's Gate: Descent into Avernus",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 17000
     },
     "Gavel of the Venn Rune": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 17000
     },
     "Gem of Seeing": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 4000
+        "Price": 5000
     },
     "Ghost Lantern": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tomb of Annihilation",
         "Rarity": "Rare",
-        "Price": 3000
+        "Price": 16000
     },
     "Giant Slayer": {
         "Type": "Weapon",
@@ -2202,28 +2202,28 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 5000
+        "Price": 10000
     },
     "Gulthias Staff": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Curse of Strahd",
         "Rarity": "Rare",
-        "Price": 18000
+        "Price": 11000
     },
     "Heart Weaver's Primer": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 16000
+        "Price": 9000
     },
     "Hell Hound Cloak": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Rare",
-        "Price": 8000
+        "Price": 16000
     },
     "Helm of Teleportation": {
         "Type": "Wondrous Item",
@@ -2237,154 +2237,154 @@
         "Attuned": true,
         "Source": "Mythic Odysseys of Theros",
         "Rarity": "Rare",
-        "Price": 17000
+        "Price": 15000
     },
     "Heward's Handy Haversack": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 13000
+        "Price": 12000
     },
     "Hook of Fisher's Delight": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Icewind Dale: Rime of the Frostmaiden",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 12000
     },
     "Horn of Blasting": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 19000
+        "Price": 13000
     },
     "Horn of Valhalla": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 250000
     },
     "Horseshoes of Speed": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 8000
     },
     "Ioun Stone": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide, Lost Laboratory of Kwalish",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 125000
     },
     "Iron Bands of Bilarro": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 5000
+        "Price": 17000
     },
     "Knave's Eye Patch": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Waterdeep - Dragon Heist",
         "Rarity": "Rare",
-        "Price": 5000
+        "Price": 12000
     },
     "Leather Golem Armor": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Lost Laboratory of Kwalish",
         "Rarity": "Rare",
-        "Price": 4000
+        "Price": 10000
     },
     "Libram of Souls and Flesh": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 15000
+        "Price": 18000
     },
     "Loadstone": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 10000
     },
     "Lyre of Building": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 13000
+        "Price": 15000
     },
     "Mace of Disruption": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 13000
     },
     "Mace of Smiting": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 13000
+        "Price": 17000
     },
     "Mace of Terror": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 7000
     },
     "Mantle of Spell Resistance": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 19000
+        "Price": 11000
     },
     "Mind Blade": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Volo's Guide to Monsters",
         "Rarity": "Rare",
-        "Price": 17000
+        "Price": 2000
     },
     "Mind Lash": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Volo's Guide to Monsters",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 8000
     },
     "Mirror of the Past": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 7000
     },
     "Mizzium Armor": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 13000
     },
     "Mizzium Mortar": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 6000
     },
     "Molten Bronze Skin": {
         "Type": "Armor",
@@ -2398,133 +2398,133 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 13000
+        "Price": 9000
     },
     "Necklace of Prayer Beads": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 16000
+        "Price": 19000
     },
     "Needle of Mending": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 10000
     },
     "Oil of Etherealness": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 10000
     },
     "Opal of the Ild Rune": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 14000
     },
     "Orb of the Stein Rune": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 13000
     },
     "Outer Essence Shard": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 18000
+        "Price": 8000
     },
     "Pariah's Shield": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Rare",
-        "Price": 4000
+        "Price": 12000
     },
     "Periapt of Proof against Poison": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 2000
+        "Price": 11000
     },
     "Piwafwi of Fire Resistance": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Out of the Abyss",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 7000
     },
     "Planecaller's Codex": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 15000
+        "Price": 2000
     },
     "Portable Hole": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 9000
     },
     "Potion of Aqueous Form": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Mythic Odysseys of Theros",
         "Rarity": "Rare",
-        "Price": 20000
+        "Price": 7000
     },
     "Potion of Clairvoyance": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 17000
     },
     "Potion of Diminution": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 8000
     },
     "Potion of Gaseous Form": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 9000
     },
     "Potion of Heroism": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 15000
     },
     "Potion of Invulnerability": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 7000
+        "Price": 11000
     },
     "Potion of Maximum Power": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 10000
     },
     "Potion of Mind Control": {
         "Type": "Potion",
@@ -2538,280 +2538,280 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 15000
+        "Price": 6000
     },
     "Professor Orb": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Icewind Dale: Rime of the Frostmaiden",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 5000
     },
     "Protective Verses": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 4000
     },
     "Quaal's Feather Token": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 5000
     },
     "Reveler's Concertina": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 5000
+        "Price": 9000
     },
     "Ring of Animal Influence": {
         "Type": "Ring",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 12000
     },
     "Ring of Evasion": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 7000
+        "Price": 12000
     },
     "Ring of Feather Falling": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 5000
+        "Price": 9000
     },
     "Ring of Free Action": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 15000
+        "Price": 9000
     },
     "Ring of Protection": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 8000
+        "Price": 15000
     },
     "Ring of Resistance": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 13000
     },
     "Ring of Spell Storing": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 10000
     },
     "Ring of Temporal Salvation": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 7000
     },
     "Ring of the Ram": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 3000
     },
     "Ring Of X-Ray Vision": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 16000
+        "Price": 3000
     },
     "Robe of Eyes": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 12000
     },
     "Robe of Summer": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 9000
     },
     "Rod of Rulership": {
         "Type": "Rod",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 9000
     },
     "Rod of the Vonindod": {
         "Type": "Rod",
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Rare",
-        "Price": 13000
+        "Price": 5000
     },
     "Rope of Entanglement": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 4000
+        "Price": 7000
     },
     "Saint Markovia's Thighbone": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Curse of Strahd",
         "Rarity": "Rare",
-        "Price": 7000
+        "Price": 5000
     },
     "Scissors of Shadow Snipping": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Rare",
-        "Price": 13000
+        "Price": 10000
     },
     "Scorpion Armor": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Tomb of Annihilation",
         "Rarity": "Rare",
-        "Price": 19000
+        "Price": 15000
     },
     "Scroll of Protection": {
         "Type": "Scroll",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 15000
     },
     "Serpent's Fang": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Candlekeep Mysteries",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 18000
     },
     "Shadowfell Brand Tattoo": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 16000
+        "Price": 15000
     },
     "Shadowfell Shard": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 15000
     },
     "Shield of Far Sight": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Volo's Guide to Monsters",
         "Rarity": "Rare",
-        "Price": 16000
+        "Price": 9000
     },
     "Shield of Missile Attraction": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 10000
     },
     "Siren Song Lyre": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Mythic Odysseys of Theros",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 18000
     },
     "Staff of Charming": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 12000
+        "Price": 3000
     },
     "Staff of Defense": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Lost Mine of Phandelver",
         "Rarity": "Rare",
-        "Price": 8000
+        "Price": 13000
     },
     "Staff of Healing": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 7000
+        "Price": 11000
     },
     "Staff of Swarming Insects": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 9000
     },
     "Staff of the Ivory Claw": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Rare",
-        "Price": 17000
+        "Price": 8000
     },
     "Staff of the Woodlands": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 10000
     },
     "Staff of Withering": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 5000
     },
     "Stone of Controlling Earth Elementals": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 19000
     },
     "Stonespeaker Crystal": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Out of the Abyss",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 14000
     },
     "Sun Blade": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 13000
     },
     "Sunforger": {
         "Type": "Weapon",
@@ -2825,133 +2825,133 @@
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 13000
+        "Price": 8000
     },
     "Sword of Wounding": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 11000
     },
     "Tentacle Rod": {
         "Type": "Rod",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 4000
     },
     "Two-Birds Sling": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Mythic Odysseys of Theros",
         "Rarity": "Rare",
-        "Price": 16000
+        "Price": 10000
     },
     "Ventilating Lungs": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 9000
     },
     "Vicious Weapon": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 16000
+        "Price": 15000
     },
     "Wand of Binding": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 6000
+        "Price": 8000
     },
     "Wand of Enemy Detection": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 7000
     },
     "Wand of Fear": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 13000
     },
     "Wand of Fireballs": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 13000
     },
     "Wand of Lightning Bolts": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 14000
+        "Price": 19000
     },
     "Wand of Paralysis": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 16000
+        "Price": 17000
     },
     "Wand of Viscid Globs": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Out of the Abyss",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 13000
     },
     "Wand of Winter": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Tyranny of Dragons",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 12000
     },
     "Wand of Wonder": {
         "Type": "Wand",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 9000
+        "Price": 13000
     },
     "Weapon of Certain Death": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Rare",
-        "Price": 8000
+        "Price": 2000
     },
     "Weird Tank": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Rare",
-        "Price": 11000
+        "Price": 14000
     },
     "Wings of Flying": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Rare",
-        "Price": 10000
+        "Price": 9000
     },
     "Woodcutter's Axe": {
         "Type": "Weapon",
         "Attuned": false,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Rare",
-        "Price": 19000
+        "Price": 20000
     },
     "Abracadabrus": {
         "Type": "Wondrous Item",
@@ -2965,49 +2965,49 @@
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 40000
     },
     "Amethyst Lodestone": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Amulet of the Black Skull": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tomb of Annihilation",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 50000
     },
     "Amulet of the Planes": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Animated Shield": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 30000
     },
     "Arcane Cannon": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Arcane Propulsion Arm": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 50000
     },
     "Arrow of Slaying": {
         "Type": "Weapon",
@@ -3028,7 +3028,7 @@
         "Attuned": true,
         "Source": "Baldur's Gate: Descent into Avernus",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 20000
     },
     "Blade of the Medusa": {
         "Type": "Weapon",
@@ -3042,7 +3042,7 @@
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 50000
     },
     "Bobbing Lily Pad": {
         "Type": "Wondrous Item",
@@ -3056,21 +3056,21 @@
         "Attuned": true,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Candle of Invocation": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 30000
     },
     "Carpet of Flying": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 30000
     },
     "Cauldron of Rebirth": {
         "Type": "Wondrous Item",
@@ -3084,35 +3084,35 @@
         "Attuned": true,
         "Source": "Acquisitions Incorporated",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 20000
     },
     "Cloak of Arachnida": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 30000
     },
     "Conch of Teleportation": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 40000
     },
     "Crystal Ball": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 125000
+        "Price": 200000
     },
     "Crystalline Chronicle": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 50000
     },
     "Dancing Sword": {
         "Type": "Weapon",
@@ -3126,7 +3126,7 @@
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 20000
     },
     "Devastation Orb": {
         "Type": "Wondrous Item",
@@ -3140,21 +3140,21 @@
         "Attuned": true,
         "Source": "Acquisitions Incorporated",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 40000
     },
     "Dispelling Stone": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 40000
     },
     "Dragon Scale Mail": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 30000
     },
     "Duskcrusher": {
         "Type": "Weapon",
@@ -3168,84 +3168,84 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 30000
     },
     "Dwarven Thrower": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 40000
     },
     "Dyrrn's Tentacle Whip": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Efreeti Bottle": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 30000
     },
     "Eldritch Staff": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 50000
     },
     "Far Gear": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Acquisitions Incorporated",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 50000
     },
     "Frost Brand": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 40000
     },
     "Ghost Step Tattoo": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 50000
     },
     "Helm of Brilliance": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 50000
     },
     "Helm of Devil Command": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Baldur's Gate: Descent into Avernus",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Heward's Hireling Armor": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Lost Laboratory of Kwalish",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Horseshoes of a Zephyr": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 30000
     },
     "Hunter's Coat": {
         "Type": "Armor",
@@ -3259,7 +3259,7 @@
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 50000
     },
     "Ingot of the Skold Rune": {
         "Type": "Wondrous Item",
@@ -3273,42 +3273,42 @@
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 50000
     },
     "Last Stand Armor": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Lifewell Tattoo": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 50000
     },
     "Living Armor": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Lord's Ensemble": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Waterdeep - Dragon Heist",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 40000
     },
     "Manual of Bodily Health": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 20000
     },
     "Manual of Gainful Exercise": {
         "Type": "Wondrous Item",
@@ -3322,14 +3322,14 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 20000
     },
     "Manual of Quickness of Action": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 30000
     },
     "Mirror of Life Trapping": {
         "Type": "Wondrous Item",
@@ -3343,14 +3343,14 @@
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 40000
     },
     "Nine Lives Stealer": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 30000
     },
     "Nolzur's Marvelous Pigments": {
         "Type": "Wondrous Item",
@@ -3364,7 +3364,7 @@
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Oil of Sharpness": {
         "Type": "Potion",
@@ -3392,35 +3392,35 @@
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 40000
     },
     "Peregrine Mask": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 30000
     },
     "Polymorph Blade": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Lost Laboratory of Kwalish",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 30000
     },
     "Potion of Flying": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 20000
     },
     "Potion of Invisibility": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 50000
     },
     "Potion of Longevity": {
         "Type": "Potion",
@@ -3434,105 +3434,105 @@
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 30000
     },
     "Potion of Speed": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 30000
     },
     "Potion of Vitality": {
         "Type": "Potion",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 30000
     },
     "Reincarnation Dust": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 40000
     },
     "Ring of Regeneration": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 50000
     },
     "Ring of Shooting Stars": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 30000
     },
     "Ring of Telekinesis": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 50000
     },
     "Robe of Scintillating Colors": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 30000
     },
     "Robe of Stars": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 20000
     },
     "Rod of Absorption": {
         "Type": "Rod",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 50000
     },
     "Rod of Alertness": {
         "Type": "Rod",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 20000
     },
     "Rod of Security": {
         "Type": "Rod",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 20000
     },
     "Rotor of Return": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Acquisitions Incorporated",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 30000
     },
     "Sapphire Buckler": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 50000
     },
     "Scimitar of Speed": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 50000
     },
     "Shard of the Ise Rune": {
         "Type": "Wondrous Item",
@@ -3546,7 +3546,7 @@
         "Attuned": false,
         "Source": "Mythic Odysseys of Theros",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 20000
     },
     "Speaking Stone": {
         "Type": "Wondrous Item",
@@ -3560,28 +3560,28 @@
         "Attuned": true,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 40000
     },
     "Spellguard Shield": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 20000
     },
     "Staff of Dunamancy": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 20000
     },
     "Staff of Fate": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Candlekeep Mysteries",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 20000
     },
     "Staff of Fire": {
         "Type": "Staff",
@@ -3595,21 +3595,21 @@
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 50000
     },
     "Staff of Power": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 30000
     },
     "Staff of Striking": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 50000
     },
     "Staff of Thunder and Lightning": {
         "Type": "Staff",
@@ -3623,7 +3623,7 @@
         "Attuned": true,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 50000
     },
     "Sword of Sharpness": {
         "Type": "Weapon",
@@ -3637,42 +3637,42 @@
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 30000
     },
     "Timepiece of Travel": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Acquisitions Incorporated",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 50000
     },
     "Tome of Clear Thought": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 20000
     },
     "Tome of Leadership and Influence": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 30000
+        "Price": 50000
     },
     "Tome of Understanding": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 30000
     },
     "Voyager Staff": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Very Rare",
-        "Price": 20000
+        "Price": 50000
     },
     "Wand of Polymorph": {
         "Type": "Wand",
@@ -3686,98 +3686,98 @@
         "Attuned": true,
         "Source": "Candlekeep Mysteries",
         "Rarity": "Very Rare",
-        "Price": 50000
+        "Price": 30000
     },
     "Wheel of Stars": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Acquisitions Incorporated",
         "Rarity": "Very Rare",
-        "Price": 40000
+        "Price": 20000
     },
     "Apparatus of Kwalish": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 100000
     },
     "Armor of Invulnerability": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 100000
+        "Price": 275000
     },
     "Azuredge": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Waterdeep - Dragon Heist",
         "Rarity": "Legendary",
-        "Price": 50000
+        "Price": 225000
     },
     "Belashyrra's Beholder Crown": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Eberron: Rising from the Last War",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 125000
     },
     "Blackrazor": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 100000
+        "Price": 275000
     },
     "Blackstaff": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Waterdeep - Dragon Heist",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 200000
     },
     "Blood Fury Tattoo": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tasha's Cauldron of Everything",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 200000
     },
     "Bookmark": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Tomb of Annihilation",
         "Rarity": "Legendary",
-        "Price": 125000
+        "Price": 275000
     },
     "Cloak of Invisibility": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 275000
     },
     "Cubic Gate": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 125000
+        "Price": 150000
     },
     "Danoth's Visor": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Legendary",
-        "Price": 225000
+        "Price": 150000
     },
     "Dawnbringer": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Out of the Abyss",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 150000
     },
     "Deck of Many Things": {
         "Type": "Wondrous Item",
@@ -3791,42 +3791,42 @@
         "Attuned": false,
         "Source": "Lost Laboratory of Kwalish",
         "Rarity": "Legendary",
-        "Price": 75000
+        "Price": 125000
     },
     "Defender": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 225000
     },
     "Dragon Mask": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Tyranny of Dragons",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 50000
     },
     "Dragonlance": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Legendary",
-        "Price": 125000
+        "Price": 100000
     },
     "Dragonstaff of Ahghairon": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Waterdeep - Dragon Heist",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 125000
     },
     "Drown": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Legendary",
-        "Price": 50000
+        "Price": 150000
     },
     "Efreeti Chain": {
         "Type": "Armor",
@@ -3840,28 +3840,28 @@
         "Attuned": true,
         "Source": "Baldur's Gate: Descent into Avernus",
         "Rarity": "Legendary",
-        "Price": 125000
+        "Price": 75000
     },
     "Flail of Tiamat": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 225000
     },
     "Gloves of Soul Catching": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Candlekeep Mysteries",
         "Rarity": "Legendary",
-        "Price": 250000
+        "Price": 175000
     },
     "Grimoire Infinitus": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Legendary",
-        "Price": 100000
+        "Price": 75000
     },
     "Gurt's Greataxe": {
         "Type": "Weapon",
@@ -3875,7 +3875,7 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 125000
+        "Price": 150000
     },
     "Hazirawn": {
         "Type": "Weapon",
@@ -3889,35 +3889,35 @@
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Legendary",
-        "Price": 100000
+        "Price": 200000
     },
     "Holy Avenger": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 100000
+        "Price": 250000
     },
     "Holy Symbol of Ravenkind": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Curse of Strahd",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 150000
     },
     "Icon of Ravenloft": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Curse of Strahd",
         "Rarity": "Legendary",
-        "Price": 300000
+        "Price": 175000
     },
     "Infernal Tack": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Baldur's Gate: Descent into Avernus",
         "Rarity": "Legendary",
-        "Price": 100000
+        "Price": 175000
     },
     "Infiltrator's Key": {
         "Type": "Wondrous Item",
@@ -3931,105 +3931,105 @@
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 50000
+        "Price": 275000
     },
     "Ironfang": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 175000
     },
     "Korolnor Scepter": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Storm King's Thunder",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 200000
     },
     "Lost Crown of Besilmer": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Legendary",
-        "Price": 225000
+        "Price": 125000
     },
     "Luck Blade": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 75000
+        "Price": 100000
     },
     "Luxon Beacon": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 200000
     },
     "Matalotok": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Baldur's Gate: Descent into Avernus",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 225000
     },
     "Moonblade": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 200000
     },
     "Murgaxor's Orb": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Strixhaven: A Curriculum of Chaos",
         "Rarity": "Legendary",
-        "Price": 125000
+        "Price": 150000
     },
     "Nepenthe": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Van Richten's Guide to Ravenloft",
         "Rarity": "Legendary",
-        "Price": 225000
+        "Price": 200000
     },
     "Nether Scroll of Azumar": {
         "Type": "Scroll",
         "Attuned": false,
         "Source": "Candlekeep Mysteries",
         "Rarity": "Legendary",
-        "Price": 100000
+        "Price": 125000
     },
     "Nightfall Pearl": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 250000
     },
     "Obsidian Flint Dragon Plate": {
         "Type": "Armor",
         "Attuned": false,
         "Source": "Baldur's Gate: Descent into Avernus",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 150000
     },
     "Orcsplitter": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Legendary",
-        "Price": 125000
+        "Price": 75000
     },
     "Plate Armor of Etherealness": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 75000
+        "Price": 150000
     },
     "Platinum Scarf": {
         "Type": "Wondrous Item",
@@ -4043,7 +4043,7 @@
         "Attuned": false,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Legendary",
-        "Price": 225000
+        "Price": 275000
     },
     "Potion of Giant Size": {
         "Type": "Potion",
@@ -4057,21 +4057,21 @@
         "Attuned": true,
         "Source": "Lost Laboratory of Kwalish",
         "Rarity": "Legendary",
-        "Price": 225000
+        "Price": 125000
     },
     "Pyxis of Pandemonium": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Mythic Odysseys of Theros",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 275000
     },
     "Rakdos Riteknife": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Guildmaster's Guide to Ravnica",
         "Rarity": "Legendary",
-        "Price": 225000
+        "Price": 200000
     },
     "Ring of Djinni Summoning": {
         "Type": "Ring",
@@ -4085,147 +4085,147 @@
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 225000
+        "Price": 175000
     },
     "Ring of Invisibility": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 125000
     },
     "Ring of Spell Turning": {
         "Type": "Ring",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 250000
+        "Price": 275000
     },
     "Ring of Three Wishes": {
         "Type": "Ring",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 225000
     },
     "Robe of the Archmagi": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 100000
     },
     "Rod of Lordly Might": {
         "Type": "Rod",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 275000
     },
     "Rod of Resurrection": {
         "Type": "Rod",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 250000
     },
     "Ruby Weave Gem": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 250000
     },
     "Ruinblade": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Infernal Machine Rebuild",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 175000
     },
     "Scarab of Protection": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 75000
+        "Price": 175000
     },
     "Scroll of Tarrasque Summoning": {
         "Type": "Scroll",
         "Attuned": false,
         "Source": "Icewind Dale: Rime of the Frostmaiden",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 150000
     },
     "Scroll of the Comet": {
         "Type": "Scroll",
         "Attuned": false,
         "Source": "Icewind Dale: Rime of the Frostmaiden",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 200000
     },
     "Shield of the Hidden Lord": {
         "Type": "Armor",
         "Attuned": true,
         "Source": "Baldur's Gate: Descent into Avernus",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 200000
     },
     "Snicker-Snack": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Legendary",
-        "Price": 275000
+        "Price": 200000
     },
     "Sovereign Glue": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 175000
     },
     "Spell Bottle": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 125000
     },
     "Sphere Of Annihilation": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 75000
+        "Price": 200000
     },
     "Staff of the Magi": {
         "Type": "Staff",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 250000
+        "Price": 175000
     },
     "Stormgirdle": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 250000
     },
     "Sunsword": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Curse of Strahd",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 150000
     },
     "Sword of Answering": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 200000
     },
     "Talisman of Pure Good": {
         "Type": "Wondrous Item",
@@ -4239,70 +4239,70 @@
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 225000
     },
     "Talisman of Ultimate Evil": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 225000
     },
     "Tinderstrike": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Legendary",
-        "Price": 100000
+        "Price": 225000
     },
     "Tome of the Stilled Tongue": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 150000
+        "Price": 300000
     },
     "Topaz Annihilator": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Fizban's Treasury of Dragons",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 300000
     },
     "Universal Solvent": {
         "Type": "Wondrous Item",
         "Attuned": false,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 300000
+        "Price": 200000
     },
     "Verminshroud": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "Explorer's Guide to Wildemount",
         "Rarity": "Legendary",
-        "Price": 300000
+        "Price": 275000
     },
     "Vorpal Sword": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 225000
+        "Price": 50000
     },
     "Wave": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 225000
+        "Price": 125000
     },
     "Waythe": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Tales from the Yawning Portal",
         "Rarity": "Legendary",
-        "Price": 125000
+        "Price": 225000
     },
     "Well of Many Worlds": {
         "Type": "Wondrous Item",
@@ -4316,28 +4316,28 @@
         "Attuned": true,
         "Source": "Dungeon Master's Guide",
         "Rarity": "Legendary",
-        "Price": 250000
+        "Price": 275000
     },
     "Windvane": {
         "Type": "Weapon",
         "Attuned": true,
         "Source": "Princes of the Apocalypse",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 200000
     },
     "Witchlight Vane": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Legendary",
-        "Price": 175000
+        "Price": 200000
     },
     "Witchlight Watch": {
         "Type": "Wondrous Item",
         "Attuned": true,
         "Source": "The Wild Beyond the Witchlight",
         "Rarity": "Legendary",
-        "Price": 200000
+        "Price": 175000
     },
     "Wreath of the Prism": {
         "Type": "Wondrous Item",
@@ -4351,7 +4351,7 @@
         "Attuned": true,
         "Source": "Icewind Dale: Rime of the Frostmaiden",
         "Rarity": "Legendary",
-        "Price": 225000
+        "Price": 200000
     },
     "Akmon, Hammer of Purphoros": {
         "Type": "Weapon",
