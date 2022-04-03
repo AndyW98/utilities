@@ -8,6 +8,8 @@
 import json
 import random as r
 
+MAGIC_ITEMS_DIR = 'magic_items/'
+
 class MagicItems:
     '''
     The MagicItems object contains the info about DnD 5e magic items
