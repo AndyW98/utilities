@@ -11,6 +11,8 @@ from bs4 import BeautifulSoup
 import re
 import json
 
+DATABASE_DIR = 'database/'
+
 def import_items():
    
     website = 'http://dnd5e.wikidot.com/wondrous-items'
@@ -79,8 +81,27 @@ def import_items():
     with open(magic_items_file, 'w') as f:
         json.dump(magic_items, f, indent = 4)
 
+def import_monsters(filename = 'monsters.json'):
+
+    source_doc = 'database/monster_data.txt'
+    sources = {}
+    monsters = {}
+    monster_data = ''
+
+    with open(source_doc, 'r') as file:
+        monster_data = file.read()
+        file.close()
+
+    x = json.loads(monster_data)
+
+    with open(filename, 'w') as file:
+        json.dump(x, file, indent = 4)
+
+
+
+
 if __name__ == '__main__':
 
-    import_items()
-
+    # import_items()
+    import_monsters()
     print("Complete!")
