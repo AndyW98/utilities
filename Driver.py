@@ -8,16 +8,17 @@ Author(s):
     Jeremiah Quijote
 '''
 
-from MagicItems import *
+from magic_items.MagicItems import *
+from database.Database import DATABASE_DIR
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
 if __name__ == '__main__':
     
-    json_file = 'magic_items/magic_items.json'
-    magic_items_file = 'magic_items/magic_items_price.json'
-    magic_items_file2 = 'magic_items/magic_items_price2.json'
+    json_file = DATABASE_DIR + 'magic_items.json'
+    magic_items_file = MAGIC_ITEMS_DIR + 'magic_items_price.json'
+    magic_items_file2 = MAGIC_ITEMS_DIR + 'magic_items_price2.json'
     # d = {}
 
     # magic_items = MagicItems(json_file)
